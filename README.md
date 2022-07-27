@@ -13,7 +13,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=flat)](https://discordapp.com/users/740145632655704074)
 
 ## Technologies 💻:
-
+<p float="left">
 <img src="https://img.shields.io/badge/-html5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3"/>
 <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/-sqlite-003b57?logo=SQLite&logoColor=white&style=for-the-badge" alt="SQLite"/>
 <img src="https://img.shields.io/badge/-Postgresql-4169e1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" alt="HEROKU"/>
-
+</p>
 
 ## GitHub Stats 📊:
 
