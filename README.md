@@ -1,5 +1,4 @@
-# About Me 💫:
-- 👋 Hi, I'm **Inayatullah**
+# Hi, I'm Inayatullah 👋️
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on Tailwind CSS, Python/Django and Laravel Projects.
