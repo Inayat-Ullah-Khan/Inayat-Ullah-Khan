@@ -5,10 +5,10 @@
 - 📫 How to reach me? Email: Inayatullahoffical@gmail.com
 
 ## Social Media 🌐:
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/InayatUllahShi1)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/IUShinwari)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/inayatullah-shinwari-9ba0511bb/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/profile.php?id=100050628697679)
-[![Discord](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat)](https://discordapp.com/users/740145632655704074)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat)](https://discordapp.com/users/740145632655704074)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=flat)](https://discordapp.com/users/740145632655704074)
 
 ## Technologies 💻:
