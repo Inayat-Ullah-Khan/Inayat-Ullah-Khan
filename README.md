@@ -1,6 +1,7 @@
 # Hi, I'm Inayatullah 👋️
 - 👀 Interested in Web Development.
-- 🌱 Currently learning Laravel.
+- 🌱 Currently learning <img src="https://user-images.githubusercontent.com/47157614/226128027-03ab7aac-cc2d-44e5-ad9f-336cb4419774.svg" style="width: 15px; height: 15" />
+.
 - 💞️ Looking to collaborate on Tailwind CSS, Python/Django and Laravel Projects.
 - 📫 How to reach me? Email: Inayatullahoffical@gmail.com
 
