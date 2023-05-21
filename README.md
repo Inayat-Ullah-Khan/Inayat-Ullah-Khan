@@ -4,6 +4,7 @@
 .
 - 💞️ Looking to collaborate on Tailwind CSS, Python/Django and Laravel Projects.
 - 📫 How to reach me? Email: Inayatullahoffical@gmail.com
+- 🕸️ Portfolio: https://inayatullahsh.github.io/
 
 ## Social Media 🌐:
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/IUShinwari)
